@@ -1,0 +1,20 @@
+composer:
+  last: Galuppi
+  first: Baldassare
+title: Regina cœli
+id: BurG II/68
+genre: antiphon
+scoring: S (solo), 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-Dl
+    shelfmark: Mus.2973-E-6
+    date: 1750–1764
+    rism: 212006110
+    url: https://digital.slub-dresden.de/id426460561
+    license: public domain
+    principal: true
+imslp:
+parts:
+  S_solo: Soprano solo
